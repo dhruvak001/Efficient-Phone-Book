@@ -22,7 +22,7 @@ Imagine you have a phone book, but it's not a regular one. It's a special phone 
 ## **How to Use:**</br>
 - Ensure you have Python installed on your system.</br>
 - Download the script (phone_book_management.py) to your local machine.</br>
-- Prepare a text file (Details_new.txt) containing contact details in the format: Name,PhoneNumber1, PhoneNumber2...Organization.</br>
+- Prepare a text file (Details_new.txt) containing contact details in the format: Name, PhoneNumber1, PhoneNumber2...Organization.</br>
 - Modify the filename variable in the script to match the path to your contact details file.</br>
 - The script will read the contact details from the file, populate the phone book, and perform other operations as needed.</br>
 
